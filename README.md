@@ -1,4 +1,4 @@
-# study-materials
-Hello,There's something about psychology here
+# Wirting
+Hello,There's something about Wirting here
 
-Look for what you want on the branch
+Look for what you want
